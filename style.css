@@ -4,15 +4,15 @@
 }
 
 .img-1{
-  background-image: url("img1.jpg");
+  background-image: url("./img/img1.jpg");
   height: 100vh;
 }
 .img-2{
-  background-image: url("img2.jpg");
+  background-image: url("./img/img2.jpg");
   height: 400px;
 }
 .img-3{
-  background-image: url("img3.jpg");
+  background-image: url("./img/img3.jpg");
   height: 400px;
 }
 .img-1,.img-2,.img-3{
